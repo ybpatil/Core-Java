@@ -3,7 +3,7 @@ package com.yogesh;
 
 // Local variables  - Local variables are declared inside methods, constructor or block
 // local variables can be accessed within method, constructor or block only and are destroyed once program is executed
-// local variable must always be initialised before use else compilation time error will br thrown
+// local variable must always be initialised before use else compilation time error will be thrown
 
 public class Variables {
     public static void main(String[] args) {
